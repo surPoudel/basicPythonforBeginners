@@ -6,3 +6,6 @@ If you are new to using jupyter notebook. I suggest you go through basic tutoria
 
 # Conda Users
 I suggest you make an independent environment and manage that environment installing needed packages for advanced user of python. We will need it in future so I suggest you go through https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html to understand how to install conda in your computer
+
+# Python
+I am using Python 3.7.10 on a Anaconda platform. conda comes along with Anaconda environment. Alternatively, you can install miniconda too. Details of Anaconda can be found here. https://docs.anaconda.com/anaconda/user-guide/getting-started/
