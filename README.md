@@ -3,3 +3,6 @@ I see a lot of biologists who are willing to learn python. However, it's really 
 
 # Jupyter Notebook
 If you are new to using jupyter notebook. I suggest you go through basic tutorial. For example, I just googled jupyter notebook introduction and got the following website. I think this is a good introduction. You can also look at the youtube tutorials. https://realpython.com/jupyter-notebook-introduction/
+
+# Conda Users
+I suggest you make an independent environment and manage that environment installing needed packages for advanced user of python. We will need it in future so I suggest you go through https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html to understand how to install conda in your computer
