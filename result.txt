@@ -1,0 +1,1 @@
+This is an example of writing the file. Please see the output named result.txt in the folder
