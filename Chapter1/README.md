@@ -9,3 +9,5 @@ I suggest you make an independent environment and manage that environment instal
 
 # Python
 I am using Python 3.7.10 on a Anaconda platform. conda comes along with Anaconda environment. Alternatively, you can install miniconda too. Details of Anaconda can be found here. https://docs.anaconda.com/anaconda/user-guide/getting-started/
+
+# Chapter 1 discusses reading and writing txt files in python
